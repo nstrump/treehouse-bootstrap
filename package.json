@@ -1,0 +1,23 @@
+{
+  "name": "team-treehouse",
+  "version": "1.0.0",
+  "description": "'Bootstrap project'",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016\u0016'https://github.com/nstrump/treehouse-bootstrap.git'"
+  },
+  "author": "Nate Trump",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^4.5.0"
+  },
+  "devDependencies": {
+    "autoprefixer": "^9.7.6",
+    "node-sass": "^4.14.1",
+    "postcss-cli": "^7.1.1"
+  }
+}
